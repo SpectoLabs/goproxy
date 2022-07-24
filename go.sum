@@ -1,1 +1,3 @@
+github.com/SpectoLabs/goproxy/ext v0.0.0-20220724222243-c982a2c966ae h1:3Qfw4yZArPnqymR+G9sHRNBXHbrtj84wXaj6+EGkBjs=
+github.com/SpectoLabs/goproxy/ext v0.0.0-20220724222243-c982a2c966ae/go.mod h1:rnDN1CpKP9iJXwxRtnvM7d5wdPHQY0K5NkHeXWPlQ+o=
 github.com/rogpeppe/go-charset v0.0.0-20180617210344-2471d30d28b4/go.mod h1:qgYeAmZ5ZIpBWTGllZSQnw97Dj+woV0toclVaRGI8pc=
